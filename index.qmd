@@ -13,7 +13,7 @@ library(fontawesome)
 
 # Before the Workshop
 
--   Make sure to have created a **GitHub account** [`r fa(name = "link")`](https://github.com/) and report your username in this **short survey** [`r fa(name = "link")`]().
+-   Make sure to have created a **GitHub account** [`r fa(name = "link")`](https://github.com/) and report your username in this **short survey** [`r fa(name = "link")`](https://forms.gle/g35o1XBtV5vuVNa28).
 
 -   Join our **GitHub organization**, you should have received an email invitation.
 
