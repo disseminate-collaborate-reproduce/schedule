@@ -15,7 +15,7 @@ library(fontawesome)
 
 -   Make sure to have created a **GitHub account** <a href = "https://github.com/" target="_blank"> `r fontawesome::fa(name = "link")`</a> and report your username in this **short survey** <a href = "https://forms.gle/g35o1XBtV5vuVNa28" target="_blank"> `r fontawesome::fa(name = "link")`</a>.
 
--   Join our **GitHub organization**, you should have received an email invitation.
+-   A few days after filling out the survey, you will receive an invitation to join our **GitHub organization**, please accept this invitation.
 
 -   **Install R** <a href = "https://mirror.las.iastate.edu/CRAN/" target="_blank"> `r fontawesome::fa(name = "link")`</a> Yes, you do need to download and install R even if you have downloaded before. There is a newer version.
 
@@ -23,11 +23,8 @@ library(fontawesome)
 
 -   **Install and setup git** <a href = "https://drive.google.com/file/d/1_I9fOIpBs1Oc1EkFKd-BMe_X2_NpP3um/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "video")` </a> <a href = "https://disseminate-collaborate-reproduce.github.io/slides/00-install-git.html" target="_blank"> `r fontawesome::fa(name = "desktop")`</a>
 
--   **Test your installations** <a href = "https://drive.google.com/file/d/1rTOWcau0oTPvxb-pCRHAXIRXikjs3Lyf/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "video")`</a>
-
+-   **Test your installations** <a href = "https://drive.google.com/file/d/1rTOWcau0oTPvxb-pCRHAXIRXikjs3Lyf/view?usp=share_link" target="_blank"> `r fontawesome::fa(name = "video")`</a>. If you have filled out the survey later than usual, your test repo may not be available. Please contact us in that case. 
 
 # During the Workshop
 
-Table
-
-Topic Slides
+Work in Progress
