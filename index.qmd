@@ -13,7 +13,7 @@ library(fontawesome)
 
 # Before the Workshop
 
--   Make sure to have created a **GitHub account** <a href = "https://github.com/" target="_blank"> `r fontawesome::fa(name = "link")`</a> and report your username in this **short survey** <a href = "" target="_blank"> `r fontawesome::fa(name = "link")`</a>. GitHub usernames are used in professional settings (e.g. on CVs), thus you may want to pick a username that you do not mind sharing publicly.
+-   Make sure to have created a **GitHub account** <a href = "https://github.com/" target="_blank"> `r fontawesome::fa(name = "link")`</a> and report your username in this **short survey** <a href = "https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwh_yQS1QwCtAhUd1IALGUPFUOUxQOTZNTzZaUUpQTDJOVExPS00xR1VCQi4u" target="_blank"> `r fontawesome::fa(name = "link")`</a>. GitHub usernames are used in professional settings (e.g. on CVs), thus you may want to pick a username that you do not mind sharing publicly.
 
 -   A few days after filling out the survey, you will receive an invitation to join our **GitHub organization**, please accept this invitation.
 
