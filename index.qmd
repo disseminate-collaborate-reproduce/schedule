@@ -3,7 +3,6 @@ title: "Disseminating Collaborative and Reproducible Research"
 subtitle: "Workshop Schedule"
 author: "Dr Mine Dogucu and Dr Sinem Demirci"
 format: html
-editor: visual
 ---
 
 ```{r}
@@ -29,11 +28,11 @@ library(fontawesome)
 
 The workshop will be divided into six parts. For each part you will be provided a repo which you will get to work with hands-on. Note that the `username` in repo names refer to your own GitHub username.
 
-| Content                        | Slide                                                                                                                                                           | Repo Name                     |
-|-----------------------------------------|----------------|----------------|
-| Introduction to Git and GitHub | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/01-intro-git.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a>              | `01-intro-github-username`    |
-| Introduction to Quarto         | no slides                                                                                                                                                       | `02-intro-quarto-username`    |
+| Content                        | Slide                                                                                                                                                           | Repo Name                              |
+|--------------------------------------|-----------------|-----------------|
+| Introduction to Git and GitHub | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/01-intro-git.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a>              | `01-intro-github-username`             |
+| Introduction to Quarto         | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/02-intro-quarto.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a>                                                                                                                                                     | `02-intro-quarto-username`             |
 | Writing a Manuscript           | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/03-writing-a-manuscript.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a>   | `03-manuscript-username`               |
 | Collaboration on GitHub        | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/04-collaboration.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a>          | `04-collaborative-manuscript-username` |
-| Making a Website               | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/05-making-a-website.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a>       | you will create this repo     |
+| Making a Website               | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/05-making-a-website.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a>       | you will create this repo              |
 | Reproducible Workflows         | <a href = "https://disseminate-collaborate-reproduce.github.io/slides/06-reproducible-workflows.html" target="_blank"> `r fontawesome::fa(name = "laptop")`</a> | `06-reproduce-username`                |
