@@ -26,6 +26,12 @@ library(fontawesome)
 
 # During the Workshop
 
+Keep three things open during the workshop. 
+
+- RStudio
+- Schedule [disseminate-collaborate-reproduce.github.io/schedule/](https://disseminate-collaborate-reproduce.github.io/schedule/)
+- GitHub organization [github.com/disseminate-collaborate-reproduce](https://github.com/disseminate-collaborate-reproduce)
+
 The workshop will be divided into six parts. For each part you will be provided a repo which you will get to work with hands-on. Note that the `username` in repo names refer to your own GitHub username.
 
 | Content                        | Slide                                                                                                                                                           | Repo Name                              |
